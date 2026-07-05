@@ -1,0 +1,5 @@
+# アプリ本体とREADME以外はローカル専用(元PDF・OCR中間データは公開しない)
+*
+!.gitignore
+!index.html
+!README.md
